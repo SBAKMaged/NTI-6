@@ -452,6 +452,14 @@ sup
   border: 1px solid #79b630;
   border-radius: 15px;
 }
+
+#sec-6 div.container div.card-blog figure button:hover
+{
+  background-color: #3e8e41;
+  color: #365374;
+  transition: 0.3s;
+}
+
 #sec-6 div.container div.blog-cont
 {
   display: flex;
